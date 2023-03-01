@@ -18,7 +18,3 @@ main() {
   print(Rectangle(width: 200));
   print(Rectangle());
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
